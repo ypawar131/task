@@ -1,0 +1,30 @@
+body {font-family: sans-serif;font-size: 15px}
+header .navbar-inverse {height:70px}
+header .navbar-inverse .navbar-nav {padding:px}
+header .navbar-inverse .navbar-nav li{border-right: 1px solid #929293;padding:10px}
+header .navbar-inverse .navbar-nav li:hover{color:blue;background-color: #27292B}
+section {margin-top:100px}
+section .color {background-color:gray ;min-height:200px;min-width:357px}
+.write {background-color:ghostwhite;padding:8px}
+.write p{text-align: left;;line-height: 1.7em}
+.main {border:2px solid gainsboro}
+.mid {border:2px solid gainsboro;margin-top:40px}
+.foot {background-color:#3A3D40;padding:20px;margin-top: 40px}
+.foot span {color:#757B80}
+.foot h4{color:gainsboro}
+.foot p {color:#929293;line-height: 1.7em}
+.foot label{color:lightskyblue}
+footer{background-color: #27292B;padding:30px}
+.social ul{list-style: none}
+.social ul li{display: inline-block;padding:5px}
+.face span{width:25px;height:25px;background-color:#F8902E;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.twit span{width:25px;height:25px;background-color: #39599F;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.you span{width:25px;height:25px;background-color:#45B0E3;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.link span{width:25px;height:25px;background-color:#D97AB0;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.insta span{width:25px;height:25px;background-color:#CC212C;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.tut span{width:25px;height:25px;background-color:#538FE4;padding:7px 0px 0px 6px;font-size:12px;color:white}
+.copy p{color:white}
+.contact{list-style: none}
+.contact li{padding:0px 0px 10px 0px}
+.contact input {background-color: #27292B;border:none;width:200px;height:30px}
+.contact textarea {background-color: #27292B;border:none;width:200px;height:80px}
